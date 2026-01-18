@@ -5,7 +5,8 @@
         "accounts": [
             {
                 "name": "PEACH GELATO #TWICE",
-                "url": "https://op.gg/lol/summoners/las/PEACH%20GELATO-TWICE"
+                "url": "https://op.gg/lol/summoners/las/PEACH%20GELATO-TWICE",
+                "region" "LAS"
             }
         ]
     },
@@ -15,7 +16,8 @@
         "accounts": [
             {
                 "name": "girls hate me #sigh",
-                "url": "https://op.gg/lol/summoners/oce/girls%20hate%20me-sigh"
+                "url": "https://op.gg/lol/summoners/oce/girls%20hate%20me-sigh",
+                "region" "OCE"
             }
         ]
     },
@@ -25,11 +27,13 @@
         "accounts": [
             {
                 "name": "PESSERE     PEPE #momo",
-                "url": "https://op.gg/es/lol/summoners/br/PESSERE%20%20%20%20%20PEPE-momo"
+                "url": "https://op.gg/es/lol/summoners/br/PESSERE%20%20%20%20%20PEPE-momo",
+                "region" "BR"
             },
             {
                 "name": "call me whenever #zzz",
-                "url": "https://op.gg/es/lol/summoners/br/call%20me%20whenever-zzz"
+                "url": "https://op.gg/es/lol/summoners/br/call%20me%20whenever-zzz",
+                "region" "BR"
             }
         ]
     },
@@ -39,8 +43,10 @@
         "accounts": [
             {
                 "name": "xXLabubuXx #gmail",
-                "url": "https://op.gg/lol/summoners/euw/xXLabubuXx-gmail"
+                "url": "https://op.gg/lol/summoners/euw/xXLabubuXx-gmail",
+                "region" "EUW"
             }
         ]
     }
 ]
+
